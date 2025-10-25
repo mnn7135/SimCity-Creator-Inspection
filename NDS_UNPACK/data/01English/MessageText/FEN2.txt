@@ -1,0 +1,918 @@
+//［チャレンジ］1:トップメニュー：上画面A「最初から」
+
+New Game
+Begin a new game.
+
+
+
+@
+//［チャレンジ］2:トップメニュー：上画面B「つづきから」
+
+Continue
+Resume playing from previously
+saved game data.
+
+
+@
+//［チャレンジ］3:トップメニュー：上画面C「時代選択」
+
+Period Selection
+Start a new game in any
+time period you like.
+
+
+@
+//［チャレンジ］4:セーブ空きなし警告
+There are no free slots for save
+data. If you begin the game like
+this, you will need to erase an
+older saved game in order to save
+your progress. Is this okay?
+
+@
+//［チャレンジ］5:つづきからデータ選択
+
+Please choose the data you
+would like to play.
+
+
+
+@
+//［チャレンジ］6:時代選択：古代
+The Dawn of Ancient Civilization
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］7:時代選択：江戸
+Open Asia Age
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］8:時代選択：ルネサンス
+European Renaissance
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］9:時代選択：近代日本
+Asia Development Age
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］10:時代選択：近代ヨーロッパ
+European Industrial Age
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］11:時代選択：アメリカ開拓
+American Prosperity Age
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］12:時代選択：現代
+Present Day - Global Warming Age
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］13:時代選択：未来
+Global Warming Future
+
+There are still #c%20%#z
+buildings hidden in this
+time period!
+
+@
+//［チャレンジ］14:時代選択：開放前
+???
+
+There is a secret time
+period hidden here!
+
+
+@
+//［チャレンジ］15:※※※
+
+
+
+
+
+
+@
+//［フリープレイ］16:トップメニュー：上画面A「最初から」
+
+New Game
+Begin a new game.
+
+
+
+@
+//［フリープレイ］17:トップメニュー：上画面B「つづきから」
+
+Continue
+Resume playing from previously
+saved game data.
+
+
+@
+//［フリープレイ］18:セーブ空きなし警告
+There are no free slots for save
+data. If you begin the game like
+this, you will need to erase an
+older saved game in order to save
+your progress. Is this okay?
+
+@
+//［フリープレイ］19:つづきデータ選択
+
+Please choose the data you
+would like to play.
+
+
+
+@
+//［フリープレイ］20:マップ選択1・未開拓マップ
+
+
+
+
+
+
+@
+//［フリープレイ］21:マップ選択2・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］22:マップ選択3・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］23:マップ選択4・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］24:マップ選択5・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］25:マップ選択6・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］26:マップ選択7・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］27:マップ選択8・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］28:マップ選択9・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］29:建造物セット：上画面
+
+
+
+
+
+
+@
+//［フリープレイ］30:プレイ前最終確認
+
+
+
+
+
+
+@
+//［ギャラリー］31:写真削除確認
+
+This will delete the selected
+picture. Once deleted, the picture
+cannot be recovered. Is this okay?
+
+
+@
+//［ギャラリー］32:建造物ギャラリー説明
+
+
+
+
+
+
+@
+//［ギャラリー］33:しゃしんがない場合：ボクのまち
+There are no pictures.
+Please use the game's Camera
+Mode to take some.
+@
+//［ギャラリー］34:しゃしんがない場合：ほかのまち
+There are no pictures.
+Use DS Wireless Communications
+to exchange some.
+@
+//［ギャラリー］35:※※※
+
+
+
+
+
+
+@
+//［オプション］36:保存中注意
+Now saving changes.
+Please do not turn off the
+power or remove the
+Game Card.
+
+
+@
+//［オプション］37:データ削除注意
+
+This will clear your saved data.
+Once cleared, the original data
+cannot be restored. Is this okay?
+
+
+@
+//［オプション］38:パスワード入力
+
+
+Please enter your password.
+
+
+
+@
+//［オプション］39:建造物全開放
+
+Every building has been
+added to the
+Building Gallery!
+
+
+@
+//［オプション］40:資金無限
+
+Your funding is completely full!
+
+You won't need to worry
+about money now.
+
+@
+//［すれ違い通信］41:添付確認
+
+
+Would you like to send
+a picture of your city?
+
+
+@
+//［すれ違い通信］42:４つの中から選択中
+Please choose the picture to send.
+
+
+
+
+
+@
+//［すれ違い通信］43:写真がない場合：上画面
+
+
+While using DS Wireless Communications
+the game will sometimes save auto-
+matically, so please do not turn off
+the power or remove the Game Card.
+@
+//［すれ違い通信］44:写真がない場合：下画面
+
+Pictures are required to enjoy
+DS Wireless Communications.
+Try taking pictures of your city!
+
+
+@
+//［すれ違い通信］45:通信前後セーブ時
+
+Now saving. Please do not
+turn off the power or
+remove the Game Card.
+
+
+@
+//［すれ違い通信］46:エラー：セーブ失敗
+
+Unable to save properly.
+Please turn off the power
+and reinsert the Game Card.
+
+
+@
+//［すれ違い通信］47:エラー：破壊データ
+
+The save data is corrupted.
+Please turn off the power
+and reinsert the Game Card.
+
+
+@
+//［すれ違い通信］48:通信前待機
+This will begin DS Wireless
+Communications.
+Is this okay?
+
+
+
+@
+//［すれ違い通信］49:通信中
+
+
+
+
+
+
+@
+//［すれ違い通信］50:通信完了
+DS Wireless Communications done
+
+It looks like some new
+Sims have moved to
+the main menu!
+
+@
+//［すれ違い通信］51:相手写真保存
+Please choose where to save the picture.
+
+
+
+
+
+@
+//［すれ違い通信］52:相手写真保存時上書き注意
+
+This will overwrite this picture.
+The overwritten picture cannot
+be restored. Is this okay?
+
+
+@
+//［すれ違い通信］53:相手写真破棄時注意
+
+This will delete the received
+picture without saving it.
+Is this okay?
+
+
+@
+//［すれ違い通信］54:保存先確認
+
+
+
+
+
+
+@
+//［すれ違い通信］55:事前保存確認メッセージ
+The game will save the data
+before initiating DS Wireless
+Communications. Is this okay?
+
+
+@
+//［起動時その他］56:入力キャンセルダイアログ
+
+You will need to re-enter
+everything.
+Are you sure?
+
+
+@
+//［すれちがい：再び］57:すれ違い通信：通信成功時
+DS Wireless Communications done
+Take a look at the results
+in Gallery Mode.
+
+
+
+@
+//［すれちがい：再び］58:すれ違い通信：通信失敗時
+DS Wireless Communications
+failed. Returning to the
+main menu.
+
+
+
+@
+//［すれちがい：再び］59:すれ違い通信：通信キャンセル時
+Canceled DS Wireless
+Communications.
+Returning to the main menu.
+
+
+
+@
+//［開始イベント］60:入力画面の文章：市長名
+You can't use that word.
+Please choose another.
+
+
+
+
+@
+//［口ぐせページ］61:口ぐせモードの説明
+You can change the Slogan
+you choose at any time.
+
+
+
+
+@
+//［写真保存成功］62:写真保存成功
+The picture has been saved.
+
+Please choose Gallery from the
+main menu, then select
+My City Gallery to view it.
+
+@
+//［アンロックコンプリート］63:時代選択：古代
+The Dawn of Ancient Civilization
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］64:時代選択：江戸
+Open Asia Age
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］65:時代選択：ルネサンス
+European Renaissance
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］66:時代選択：近代日本
+Asia Development Age
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］67:時代選択：近代ヨーロッパ
+European Industrial Age
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］68:時代選択：アメリカ開拓
+American Prosperity Age
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］69:時代選択：現代
+Present Day - Global Warming Age
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［アンロックコンプリート］70:時代選択：未来
+Global Warming Future
+
+#cCongratulations, Mayor %00%!#z
+You now have all the buildings
+from this time period!
+
+@
+//［ギャラリーアンロック］71:時代別アンロックメッセージ
+All of %20%'s buildings
+have been added to the
+Building Gallery!
+
+@
+//［ギャラリーアンロック］72:モニュメント解放：古代
+The Dawn of Ancient Civilization's
+"Symbol of the Age"
+
+The Tower of Babel
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］73:モニュメント解放：江戸
+The Open Asia Age's
+"Symbol of the Age"
+
+Five-Storied Pagoda
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］74:モニュメント解放：ルネサンス
+European Renaissance's
+"Symbol of the Age"
+
+Notre Dame Cathedral
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］75:モニュメント解放：近代日本
+Asia Development Age's
+"Symbol of the Age"
+
+Oriental Pearl Tower
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］76:モニュメント解放：近代ヨーロッパ
+European Industrial Age's
+"Symbol of the Age"
+
+Luminous Tower
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］77:モニュメント解放：アメリカ開拓
+American Prosperity Age's
+"Symbol of the Age"
+
+Empire State Building
+
+has been added to
+your Building Gallery!
+
+@
+//［ギャラリーアンロック］78:モニュメント解放：現代・日本
+Present Day - Global Warming Age
+Asia's
+"Symbol of the Age"
+
+Twin Towers
+
+has been added to
+your Building Gallery!
+@
+//［ギャラリーアンロック］79:モニュメント解放：現代・ヨーロッパ
+Present Day - Global Warming Age
+Europe's
+"Symbol of the Age"
+
+Messe Tower
+
+has been added to
+your Building Gallery!
+@
+//［ギャラリーアンロック］80:モニュメント解放：現代・アメリカ
+Present Day - Global Warming Age
+America's
+"Symbol of the Age"
+
+Gateway Arch
+
+has been added to
+your Building Gallery!
+@
+//［ギャラリーアンロック］81:モニュメント解放：未来
+Global Warming Future's
+"Symbol of the Age"
+
+Tree of Life
+
+has been added to
+your Building Gallery!
+
+@
+//［マップアンロック］82:マップアンロック：エクセレント
+%04%'s
+
+Excellent Map
+
+has been added to
+Freeplay Mode!
+@
+//［しゃしん］83:しゃしん作品名
+Created by Mayor %00%
+「%05%」
+@
+//［しゃしん］84:しゃしん読み込み
+Please wait
+@
+//［マップアンロック］85:マップアンロック：ボーナス
+%04%'s
+
+Bonus Map
+
+has been added to
+Freeplay Mode!
+@
+//［マップアンロック］86:フリープレイ：時代アンロック
+
+%04%
+
+can now be selected
+in Freeplay Mode!
+
+@
+//［マップアンロック］87:フリープレイ：時代アンロック（特殊）
+All Time Periods
+@
+//［2.5.8ガイドライン］88:システムデータ破損：確認
+Save data has become corrupted
+due to an unknown cause.
+In order to save again,
+the data will be deleted.
+
+@
+//［2.5.8ガイドライン］89:ゲームデータ破損：消去中
+
+
+Now deleting data.
+Please wait.
+
+
+@
+//［2.5.8ガイドライン］90:ゲームデータ破損：消去後
+
+The data has been deleted.
+Please turn off the power.
+
+
+
+@
+//［パスワード］91:パスワード：再入力お知らせ
+
+
+That password has
+aready been registered.
+
+
+@
+
+
+Unlock Information Exchange
+
+Exchange unlock information for
+buildings with other players.
+
+@
+
+
+Picture Exchange
+
+Exchange pictures of your
+cities with other players.
+
+@
+
+
+Now searching for players to
+exchange unlock information.
+
+
+
+@
+
+
+Choose a player to
+exchange unlock information.
+
+
+
+@
+
+
+Waiting to exchange
+unlock information.
+
+
+
+@
+
+
+Please choose a player
+to begin exchanging
+unlock information.
+
+
+@
+
+
+Myr %00%
+
+Press the B button or touch
+the Back button to quit
+out of DS Wireless
+Communications.
+
+@
+
+
+Found a player who can
+exchange unlock information.
+If you wish to exchange info, press
+either the A button or the OK button.
+
+@
+
+
+This will exchange unlock
+information with Mayor %00%.
+Is this okay?
+
+
+@
+
+
+
+Preparing connection with
+other player. Please wait.
+
+
+@
+
+
+Player has been chosen.
+Please touch or press A to
+begin exchanging unlock info.
+
+
+@
+
+
+This will begin an unlock
+information exchange.
+Is this okay?
+
+
+@
+
+
+Now searching for players
+to exchange pictures.
+
+
+
+@
+
+
+Choose a player to
+exchange pictures.
+
+
+
+@
+
+
+Waiting to
+exchange pictures.
+
+
+
+@
+
+
+Please choose a
+player to begin
+exchanging pictures.
+
+
+@
+
+
+Found a player who can
+exchange pictures. If you
+wish to exchange pictures, press
+either the A button or the OK button.
+
+@
+
+
+Player has been chosen.
+Please touch or press A to
+begin exchanging pictures.
+
+
+@
+
+
+This will exchange pictures
+with Mayor %00%.
+Is this okay?
+
+
+@
+
+
+This will begin a
+picture exchange.
+Is this okay?
+
+
+@
+
+
+Communications Error
+
+
+
+
+@
+
+
+DS Wireless connection was
+lost due to unknown error.
+
+
+
+@
+
+
+Player has gone away.
+
+
+
+
+@
+
+
+Error in communications.
+Please turn the
+power off and back on.
+
+
+@

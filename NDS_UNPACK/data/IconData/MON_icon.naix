@@ -1,0 +1,26 @@
+/*****************************************************************************
+	Archive file index definition.
+	File: archive\MON_icon.naix
+
+	This file was created by NINTENDO NITRO-System Archiver.
+
+	Update:2008-01-27T20:32:54
+ *****************************************************************************/
+
+#ifndef NARC_ARCHIVE_MON_ICON_NAIX_
+#define NARC_ARCHIVE_MON_ICON_NAIX_
+
+enum {
+	NARC_archive_MON_icon_MON_icon01_idat = 0,
+	NARC_archive_MON_icon_MON_icon02_idat = 1,
+	NARC_archive_MON_icon_MON_icon03_idat = 2,
+	NARC_archive_MON_icon_MON_icon04_idat = 3,
+	NARC_archive_MON_icon_MON_icon05_idat = 4,
+	NARC_archive_MON_icon_MON_icon06_idat = 5,
+	NARC_archive_MON_icon_MON_icon07_idat = 6,
+	NARC_archive_MON_icon_MON_icon08_idat = 7,
+	NARC_archive_MON_icon_MON_icon09_idat = 8
+};
+
+/* NARC_ARCHIVE_MON_ICON_NAIX_ */
+#endif

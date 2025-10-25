@@ -1,0 +1,918 @@
+//［チャレンジ］1:トップメニュー：上画面A「最初から」
+
+Nouvelle partie
+Commencez une nouvelle partie.
+
+
+
+@
+//［チャレンジ］2:トップメニュー：上画面B「つづきから」
+
+Continuer
+Reprenez une partie sauvegardée
+précédemment.
+
+
+@
+//［チャレンジ］3:トップメニュー：上画面C「時代選択」
+
+Epoque
+Commencez une nouvelle partie à
+l'époque de votre choix.
+
+
+@
+//［チャレンジ］4:セーブ空きなし警告
+Il n'y a pas d'emplacement de
+sauvegarde libre. Si vous
+continuez, vous devrez effacer
+des données existantes pour
+sauvegarder. Continuer ?
+
+@
+//［チャレンジ］5:つづきからデータ選択
+
+Choisissez les données que vous
+voulez charger.
+
+
+
+@
+//［チャレンジ］6:時代選択：古代
+Aube de la civilisation
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］7:時代選択：江戸
+Ouverture de l'Asie
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］8:時代選択：ルネサンス
+Renaissance européenne
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］9:時代選択：近代日本
+Progrès en Asie
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］10:時代選択：近代ヨーロッパ
+Ere industrielle d'Europe
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］11:時代選択：アメリカ開拓
+Age d'or américain
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］12:時代選択：現代
+Présent - Réchauffement climatique
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］13:時代選択：未来
+Futur et climat
+
+Il reste encore #c%20%#z
+bâtiments cachés à cette
+époque !
+
+@
+//［チャレンジ］14:時代選択：開放前
+???
+
+Une époque secrète se cache
+ici !
+
+
+@
+//［チャレンジ］15:※※※
+
+
+
+
+
+
+@
+//［フリープレイ］16:トップメニュー：上画面A「最初から」
+
+Nouvelle partie
+Commencez une nouvelle partie.
+
+
+
+@
+//［フリープレイ］17:トップメニュー：上画面B「つづきから」
+
+Continuer
+Reprenez une partie sauvegardée
+précédemment.
+
+
+@
+//［フリープレイ］18:セーブ空きなし警告
+Il n'y a pas d'emplacement de
+sauvegarde libre. Si vous
+continuez, vous devrez effacer
+des données existantes pour
+sauvegarder. Continuer ?
+
+@
+//［フリープレイ］19:つづきデータ選択
+
+Choisissez les données que vous
+voulez charger.
+
+
+
+@
+//［フリープレイ］20:マップ選択1・未開拓マップ
+
+
+
+
+
+
+@
+//［フリープレイ］21:マップ選択2・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］22:マップ選択3・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］23:マップ選択4・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］24:マップ選択5・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］25:マップ選択6・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］26:マップ選択7・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］27:マップ選択8・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］28:マップ選択9・※※※
+
+
+
+
+
+
+@
+//［フリープレイ］29:建造物セット：上画面
+
+
+
+
+
+
+@
+//［フリープレイ］30:プレイ前最終確認
+
+
+
+
+
+
+@
+//［ギャラリー］31:写真削除確認
+
+L'image sélectionnée va être
+effacée et vous ne pourrez
+plus la récupérer. Continuer ?
+
+
+@
+//［ギャラリー］32:建造物ギャラリー説明
+
+
+
+
+
+
+@
+//［ギャラリー］33:しゃしんがない場合：ボクのまち
+Vous n'avez aucune image.
+Utilisez le mode Photo
+pour en prendre.
+@
+//［ギャラリー］34:しゃしんがない場合：ほかのまち
+Vous n'avez aucune image.
+Utilisez la communication
+sans fil pour en échanger.
+@
+//［ギャラリー］35:※※※
+
+
+
+
+
+
+@
+//［オプション］36:保存中注意
+Sauvegarde des modifications.
+Ne pas éteindre la console
+ni retirer la carte DS.
+
+
+
+@
+//［オプション］37:データ削除注意
+
+Les données de sauvegarde vont
+être effacées et vous ne pourrez
+plus les récupérer. Continuer ?
+
+
+@
+//［オプション］38:パスワード入力
+
+
+Saisissez votre mot de passe.
+
+
+
+@
+//［オプション］39:建造物全開放
+
+La Galerie de bâtiments
+est complète !
+
+
+
+@
+//［オプション］40:資金無限
+
+Vous avez maximisé votre capital !
+
+Vous n'avez plus à craindre
+d'avoir des problèmes d'argent.
+
+@
+//［すれ違い通信］41:添付確認
+
+
+Voulez-vous envoyer une image
+de votre ville ?
+
+
+@
+//［すれ違い通信］42:４つの中から選択中
+Choisissez une image à envoyer.
+
+
+
+
+
+@
+//［すれ違い通信］43:写真がない場合：上画面
+
+
+En communication sans fil, la partie
+est sauvegardée automatiquement.
+Ne pas éteindre la console ni retirer
+la carte DS lors de la sauvegarde.
+@
+//［すれ違い通信］44:写真がない場合：下画面
+
+Vous avez besoin d'images pour
+participer à la communication
+sans fil DS.
+Allez photographier votre ville !
+
+@
+//［すれ違い通信］45:通信前後セーブ時
+
+Sauvegarde en cours.
+Ne pas éteindre la console
+ni retirer la carte DS.
+
+
+@
+//［すれ違い通信］46:エラー：セーブ失敗
+
+Echec de la sauvegarde.
+Eteindre la console et
+réinsérer la carte DS.
+
+
+@
+//［すれ違い通信］47:エラー：破壊データ
+
+Les données sont corrompues.
+Eteindre la console et
+réinsérer la carte DS.
+
+
+@
+//［すれ違い通信］48:通信前待機
+La communication sans fil DS
+va commencer. Continuer ?
+
+
+
+
+@
+//［すれ違い通信］49:通信中
+
+
+
+
+
+
+@
+//［すれ違い通信］50:通信完了
+Fin de la communication sans fil
+
+On dirait que de nouveaux
+Sims ont été ajoutés au
+menu principal !
+
+@
+//［すれ違い通信］51:相手写真保存
+Choisissez où sauvegarder l'image.
+
+
+
+
+
+@
+//［すれ違い通信］52:相手写真保存時上書き注意
+
+L'image va être écrasée et vous
+ne pourrez plus la récupérer.
+Continuer ?
+
+
+@
+//［すれ違い通信］53:相手写真破棄時注意
+
+L'image reçue va être supprimée
+sans être sauvegardée.
+Continuer ?
+
+
+@
+//［すれ違い通信］54:保存先確認
+
+
+
+
+
+
+@
+//［すれ違い通信］55:事前保存確認メッセージ
+Les données vont
+être sauvegardées
+avant de lancer la communication
+sans fil DS. Continuer ?
+
+@
+//［起動時その他］56:入力キャンセルダイアログ
+
+Vous devrez saisir à nouveau
+toutes les informations.
+Confirmer ?
+
+
+@
+//［すれちがい：再び］57:すれ違い通信：通信成功時
+Communication sans fil DS
+terminée ! Allez voir le
+résultat dans la Galerie.
+
+
+
+@
+//［すれちがい：再び］58:すれ違い通信：通信失敗時
+Impossible de lancer la
+communication sans fil DS.
+Retour au menu principal.
+
+
+
+@
+//［すれちがい：再び］59:すれ違い通信：通信キャンセル時
+Communication sans fil DS
+annulée.
+Retour au menu principal.
+
+
+
+@
+//［開始イベント］60:入力画面の文章：市長名
+Vous ne pouvez pas utiliser ce
+mot. Choisissez-en un autre.
+
+
+
+
+@
+//［口ぐせページ］61:口ぐせモードの説明
+Vous pouvez changer d'adage
+à tout moment.
+
+
+
+
+@
+//［写真保存成功］62:写真保存成功
+Image sauvegardée.
+
+Accédez à la Galerie à partir du
+menu principal, puis sélectionnez
+Ma galerie pour la voir.
+
+@
+//［アンロックコンプリート］63:時代選択：古代
+Aube de la civilisation
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］64:時代選択：江戸
+Ouverture de l'Asie
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］65:時代選択：ルネサンス
+Renaissance européenne
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］66:時代選択：近代日本
+Progrès en Asie
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］67:時代選択：近代ヨーロッパ
+Ere industrielle d'Europe
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］68:時代選択：アメリカ開拓
+Age d'or américain
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］69:時代選択：現代
+Présent - Réchauffement climatique
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［アンロックコンプリート］70:時代選択：未来
+Futur et climat
+
+#cFélicitations, maire %00% !#z
+Vous avez débloqué tous les
+bâtiments de cette époque !
+
+@
+//［ギャラリーアンロック］71:時代別アンロックメッセージ
+Tous les bâtiments de %20%
+ont été ajoutés à la
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］72:モニュメント解放：古代
+Le symbole de
+l'Aube de la civilisation,
+
+la Tour de Babel,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］73:モニュメント解放：江戸
+Le symbole de
+l'Ouverture de l'Asie,
+
+la Pagode à 5 étages,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］74:モニュメント解放：ルネサンス
+Le symbole de
+la Renaissance européenne,
+
+la Cathédrale Notre Dame,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］75:モニュメント解放：近代日本
+Le symbole de l'époque du
+Progrès en Asie,
+
+la Perle de l'Orient,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］76:モニュメント解放：近代ヨーロッパ
+Le symbole de
+l'Ere industrielle d'Europe,
+
+la Tour Lumière,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］77:モニュメント解放：アメリカ開拓
+Le symbole de
+l'Age d'or américain,
+
+l'Empire State Building,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［ギャラリーアンロック］78:モニュメント解放：現代・日本
+Le symbole de l'époque du
+Réchauffement planétaire
+en Asie,
+
+les Tours jumelles,
+
+a été ajouté à votre
+Galerie de bâtiments !
+@
+//［ギャラリーアンロック］79:モニュメント解放：現代・ヨーロッパ
+Le symbole de l'époque du
+Réchauffement planétaire
+en Europe,
+
+la Messeturm,
+
+a été ajouté à votre
+Galerie de bâtiments !
+@
+//［ギャラリーアンロック］80:モニュメント解放：現代・アメリカ
+Le symbole de l'époque du
+Réchauffement planétaire
+aux Etats-Unis,
+
+l'Arche de Saint-Louis,
+
+a été ajouté à votre
+Galerie de bâtiments !
+@
+//［ギャラリーアンロック］81:モニュメント解放：未来
+Le symbole du
+Futur,
+
+l'Arbre de vie,
+
+a été ajouté à votre
+Galerie de bâtiments !
+
+@
+//［マップアンロック］82:マップアンロック：エクセレント
+La carte Magistrale
+
+de l'époque %04%
+
+est maintenant disponible
+en mode Libre !
+@
+//［しゃしん］83:しゃしん作品名
+Créée par %00%
+「%05%」
+@
+//［しゃしん］84:しゃしん読み込み
+Veuillez patienter...
+@
+//［マップアンロック］85:マップアンロック：ボーナス
+Carte Bonus
+
+de l'époque %04%
+
+est maintenant disponible
+en mode Libre !
+@
+//［マップアンロック］86:フリープレイ：時代アンロック
+
+L'époque %04%
+
+est maintenant disponible
+en mode Libre !
+
+@
+//［マップアンロック］87:フリープレイ：時代アンロック（特殊）
+Toutes les périodes
+@
+//［2.5.8ガイドライン］88:システムデータ破損：確認
+Pour une raison inconnue, les
+données sont désormais corrompues
+Pour sauvegarder, ces données
+doivent être supprimées.
+
+@
+//［2.5.8ガイドライン］89:ゲームデータ破損：消去中
+
+
+Suppression des données.
+Veuillez patienter.
+
+
+@
+//［2.5.8ガイドライン］90:ゲームデータ破損：消去後
+
+Données supprimées.
+Eteindre la console.
+
+
+
+@
+//［パスワード］91:パスワード：再入力お知らせ
+
+
+Ce mot de passe est déjà
+utilisé.
+
+
+@
+
+
+Echange d'informations
+
+Echangez des informations pour
+débloquer des bâtiments.
+
+@
+
+
+Echange d'images
+
+Echangez des images de villes
+avec d'autres joueurs.
+
+@
+
+
+Recherche de joueurs pour
+échange d'informations
+de déblocage.
+
+
+@
+
+
+Choisissez un joueur avec lequel
+échanger des informations
+de déblocage.
+
+
+@
+
+
+En attente de l'échange d'informations
+de déblocage.
+
+
+
+@
+
+
+Choisissez un joueur pour procéder
+à l'échange d'informations de
+déblocage.
+
+
+@
+
+
+Mre %00%
+
+Appuyez sur le bouton B ou
+touchez le bouton Retour
+pour quitter la
+communication sans fil DS.
+
+@
+
+
+Joueur trouvé pour échange
+d'informations de déblocage.
+Appuyez sur le bouton A ou sur OK
+pour procéder à l'échange.
+
+@
+
+
+Vous allez échanger des
+informations avec le maire
+%00%. Continuer ?
+
+
+@
+
+
+
+Préparation de la connexion à
+l'autre joueur. Veuillez patienter.
+
+
+@
+
+
+Joueur sélectionné.
+Touchez l'écran tactile ou 
+appuyez sur le bouton A 
+pour lancer l'échange.
+
+@
+
+
+L'échange d'informations de
+déblocage va commencer.
+Continuer ?
+
+
+@
+
+
+Recherche de joueurs pour
+échange d'images.
+
+
+
+@
+
+
+Choisissez un joueur avec lequel
+échanger des images.
+
+
+
+@
+
+
+En attente de l'échange
+d'images.
+
+
+
+@
+
+
+Choisissez un joueur pour
+procéder à l'échange
+d'images.
+
+
+@
+
+
+Joueur trouvé pour échange
+d'images.
+Appuyez sur le bouton A ou sur OK
+pour procéder à l'échange.
+
+@
+
+
+Joueur sélectionné.
+Touchez l'écran tactile ou 
+appuyez sur le bouton A
+pour lancer l'échange.
+
+@
+
+
+Vous allez échanger des
+images avec le maire
+%00%. Continuer ?
+
+
+@
+
+
+L'échange d'images
+va commencer.
+Continuer ?
+
+
+@
+
+
+Erreur de communication.
+
+
+
+
+@
+
+
+La communication sans fil DS
+a été interrompue.
+
+
+
+@
+
+
+Le joueur est parti.
+
+
+
+
+@
+
+
+Erreur de communication.
+Eteindre puis rallumer
+la console.
+
+
+@

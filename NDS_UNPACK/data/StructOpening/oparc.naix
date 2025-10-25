@@ -1,0 +1,26 @@
+/*****************************************************************************
+	Archive file index definition.
+	File: arc\\oparc.naix
+
+	This file was created by NINTENDO NITRO-System Archiver.
+
+	Update:2008-01-29T13:08:55
+ *****************************************************************************/
+
+#ifndef NARC_ARC__OPARC_NAIX_
+#define NARC_ARC__OPARC_NAIX_
+
+enum {
+	NARC_arc__oparc_opdata00_dat = 0,
+	NARC_arc__oparc_opdata01_dat = 1,
+	NARC_arc__oparc_opdata02_dat = 2,
+	NARC_arc__oparc_opdata03_dat = 3,
+	NARC_arc__oparc_opdata04_dat = 4,
+	NARC_arc__oparc_opdata05_dat = 5,
+	NARC_arc__oparc_opdata06_dat = 6,
+	NARC_arc__oparc_opdata07_dat = 7,
+	NARC_arc__oparc_opdata08_dat = 8
+};
+
+/* NARC_ARC__OPARC_NAIX_ */
+#endif
